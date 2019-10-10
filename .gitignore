@@ -1,0 +1,7 @@
+/target
+/.idea
+/out
+java8-lambda.iml
+.project
+.classpath
+/.settings
